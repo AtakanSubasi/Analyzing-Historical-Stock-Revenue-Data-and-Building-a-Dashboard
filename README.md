@@ -9,10 +9,15 @@ Pandas: For data processing and cleaning
 Matplotlib & Seaborn: For data visualization
 
 📌 Project Overview
+
 ✔️ Tesla and GameStop Stock Data: Collected the last 5 years' closing prices using yfinance.
+
 ✔️ Tesla and GameStop Revenue Data: Scraped annual revenue data from the Macrotrends website using BeautifulSoup.
+
 ✔️ Data Cleaning and Merging: Combined stock prices and revenue data.
+
 ✔️ Dashboard Visualizations: Plotted closing stock prices over time for better insights.
+
 
 📁 Files Included
 Tesla_GME_Analysis.ipynb → Jupyter Notebook file (Includes all code and analysis)

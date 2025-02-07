@@ -20,10 +20,13 @@ Matplotlib & Seaborn: For data visualization
 
 
 📁 Files Included
+
 Tesla_GME_Analysis.ipynb → Jupyter Notebook file (Includes all code and analysis)
+
 README.md → Project description
 
 📜 How to Run
+
 1️⃣ Install the required libraries:
 
 pip install yfinance pandas beautifulsoup4 requests matplotlib seaborn
@@ -31,6 +34,7 @@ pip install yfinance pandas beautifulsoup4 requests matplotlib seaborn
 2️⃣ Open the Tesla_GME_Analysis.ipynb file in Jupyter Notebook and run all cells.
 
 🏆 Conclusion
+
 This analysis explores the relationship between Tesla and GameStop stock prices and their revenues, providing valuable insights for investors.
 
 📌 Got ideas for improvements? Feel free to contribute!
